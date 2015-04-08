@@ -1,7 +1,10 @@
 package com.pkg.Game;
 
 public class Cricket {
+private void sysout() {
+	// TODO Auto-generated method stub
 
+}
 	static int a=0;
 	public static String path_url="";
 	
